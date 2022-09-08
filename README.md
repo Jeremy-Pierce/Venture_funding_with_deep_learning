@@ -1,2 +1,8 @@
 # Venture_funding_with_deep_learning
-Week 13 Challenge
+SMU Bootcamp Week 13 Challenge
+
+Venture funding utilizing deep learning neural networks
+
+## Contributors
+Jeremy Pierce
+
